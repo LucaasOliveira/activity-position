@@ -1,0 +1,22 @@
+body {
+  background-color: #eee;
+}
+.containers {
+  width: 900px;
+  height: 180px;
+  padding: 5px;
+  border-radius: 10px;
+  color: #fff;
+  background-color: #000;
+  position: absolute;
+  left: calc(50% - 450px);
+}
+.div1 {
+  text-align: right;
+  text-transform: uppercase;
+}
+.div2 {
+  position: absolute;
+  top: 30%;
+  overflow: auto;
+}
